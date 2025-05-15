@@ -33,7 +33,8 @@ When prompted, enter the path to your subdomains file.
 
 ## Subdomains File Format
 Create a text file with one subdomain per line:
-
+```
 sub1.example.com
 sub2.example.com
 test.site.org
+```
